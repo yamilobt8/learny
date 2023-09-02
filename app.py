@@ -95,4 +95,7 @@ def login():
         else:
             return apology('Invalid username or password', 'Something Went Wrong')
 
-    return render_template("login.html")  # Create an HTML template for the login form
+    return render_template("login.html")  
+
+if __name__ == "__main__":
+    app.run(debug=False,host='0.0.0.0')
