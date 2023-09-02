@@ -1,2 +1,3 @@
 # LEARNY
- IT Education Platform
+#### Video Demo:  <URL HERE>
+#### Description: IT Education Platform
