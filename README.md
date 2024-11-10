@@ -1,7 +1,7 @@
 # LEARNY
 #### Website Link: https://learny.pythonanywhere.com/  
 #### Description: IT Education Platform
-#### Hosted For Free at Pythonanywhere
+
 #### Details:
     Welcome to Learny, your passport to an exciting IT career! If you're passionate about technology and eager to turn your dreams into reality, you've found the perfect place. Learny isn't just a learning platform; it's your comprehensive IT career launchpad, offering an unmatched selection of IT courses and resources.
   
