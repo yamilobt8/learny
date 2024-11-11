@@ -1,4 +1,4 @@
-# LEARNY
+
 #### Website Link: https://learny.pythonanywhere.com/  
 #### Description: IT Education Platform
 
